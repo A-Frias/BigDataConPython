@@ -6,3 +6,7 @@ mensaje = "¡Hola mundo!"   # Definimos la variable 'mensaje'. Un comentario pue
 
 print(mensaje)
 
+name = input("¿Cómo te llamas? ")
+def hola(x):
+    print(f"¡Hola mundo! ¡Soy {x}!")
+
