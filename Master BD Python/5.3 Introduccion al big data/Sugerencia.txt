@@ -1,0 +1,6 @@
+•    Página principal: http://pandas.pydata.org/
+•    Página principal: https://seaborn.pydata.org/index.html
+•    Matplotlib: https://matplotlib.org/users/pyplot_tutorial.html
+•    Página principal: http://www.statsmodels.org/
+
+

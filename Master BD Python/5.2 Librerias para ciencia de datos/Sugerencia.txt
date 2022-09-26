@@ -1,0 +1,4 @@
+Página principal NUMPY: http://www.numpy.org/
+Página principal PYDATA: http://pandas.pydata.org/
+Página principal SEABORN: https://seaborn.pydata.org/index.html
+Página principal STARTSMODELS: http://www.statsmodels.org/
