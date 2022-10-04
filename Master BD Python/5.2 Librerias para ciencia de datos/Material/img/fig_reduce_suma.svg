@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3070"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="fig_reduce_suma.svg">
+  <defs
+     id="defs3072">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3890"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="236.8763"
+     inkscape:cy="761.5133"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3075">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="136.07408"
+       y="185.86049"
+       id="text3352"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_reduce_suma.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354"
+         x="136.07408"
+         y="185.86049"
+         style="font-size:20px"> 1     2     3      4      5</tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="210.86049"
+         style="font-size:20px"
+         id="tspan3099"> ↓    ↓    </tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="235.86049"
+         style="font-size:20px"
+         id="tspan3101">(1 + 2)            </tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="260.86047"
+         style="font-size:20px"
+         id="tspan3087">    ↓                 </tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="285.86047"
+         style="font-size:20px"
+         id="tspan3089">(   3     + 3 )    </tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="310.86047"
+         style="font-size:20px"
+         id="tspan3091">           ↓         </tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="335.86047"
+         style="font-size:20px"
+         id="tspan3093">(          6      + 4)</tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="360.86047"
+         style="font-size:20px"
+         id="tspan3095">                   ↓</tspan><tspan
+         sodipodi:role="line"
+         x="136.07408"
+         y="385.86047"
+         style="font-size:20px"
+         id="tspan3097">(                 10     + 5) = 15</tspan></text>
+    <g
+       transform="matrix(0.86832962,0,0,1.1516364,-2,50)"
+       style="font-size:20.83991051px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       id="text3103"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_reduce_suma.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 274.65534,183.64496 -0.91582,0 -4.00924,-4.00924 1.22109,-1.22109 2.38112,2.38112 0,-54.09422 1.72987,0 0,54.09422 2.36078,-2.38112 1.22108,1.22109 -3.98888,4.00924"
+         id="path4322"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <g
+       transform="matrix(0.86832962,0,0,1.1516364,49.553476,99.931662)"
+       style="font-size:20.83991051px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       id="text3103-2"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_reduce_suma.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 274.65534,183.64496 -0.91582,0 -4.00924,-4.00924 1.22109,-1.22109 2.38112,2.38112 0,-97.510701 1.72987,0 0,97.510701 2.36078,-2.38112 1.22108,1.22109 -3.98888,4.00924"
+         id="path4322-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <path
+       style="font-size:20.83991051px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       d="m 337.60578,361.00258 -0.79523,0 -3.48134,-4.61719 1.06031,-1.40625 2.06759,2.74218 0,-162.29687 1.5021,0 0,162.29687 2.04994,-2.74218 1.0603,1.40625 -3.46367,4.61719"
+       id="path4322-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_reduce_suma.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

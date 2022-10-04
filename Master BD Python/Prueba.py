@@ -1,0 +1,1 @@
+print("asd".join(["a", "b", "c"]))

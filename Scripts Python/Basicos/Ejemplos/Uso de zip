@@ -1,0 +1,1 @@
+index = [a or b for a,b in zip(consumo["dia_semana"]=="Tuesday",consumo["dia_semana"]=="Friday")]

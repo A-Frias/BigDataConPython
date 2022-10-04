@@ -1,0 +1,1 @@
+print(consumo.loc[consumo['dia_semana'].isin(['Tuesday','Friday'])].groupby('dia_semana')['consumo_kwh','precio_kwh'].mean())

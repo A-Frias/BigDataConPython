@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3274"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="fig_lista_indices.svg">
+  <defs
+     id="defs3276">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4313"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4316"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4316-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4316-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="506.18849"
+     inkscape:cy="610.24059"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3279">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3337"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path3177"
+         d="m 396.18884,403.9721 180.23982,10e-6"
+         style="fill:none;stroke:#000000;stroke-width:0.90953922pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3171"
+         d="m 396.03233,373.9721 180.21829,10e-6"
+         style="fill:none;stroke:#000000;stroke-width:0.90948486pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3119"
+         d="m 576.36274,373.40929 10e-6,44.64089"
+         style="fill:none;stroke:#000000;stroke-width:0.51462226pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3113"
+         d="m 546.36274,373.46386 10e-6,44.58632"
+         style="fill:none;stroke:#000000;stroke-width:0.51430764pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3107"
+         d="m 516.36274,373.46386 10e-6,44.58632"
+         style="fill:none;stroke:#000000;stroke-width:0.51430764pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3101"
+         d="m 486.36274,373.55783 1e-5,44.49235"
+         style="fill:none;stroke:#000000;stroke-width:0.51376534pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3095"
+         d="m 456.36274,373.50831 1e-5,44.54187"
+         style="fill:none;stroke:#000000;stroke-width:0.5140512pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3089"
+         d="m 426.36274,373.39278 1e-5,44.6574"
+         style="fill:none;stroke:#000000;stroke-width:0.51471744pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3083"
+         d="m 396.36274,373.42579 1e-5,44.62439"
+         style="fill:none;stroke:#000000;stroke-width:0.51452718pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="403.07703"
+       y="396.33429"
+       id="text2991"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993"
+         x="403.07703"
+         y="396.33429">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="432.58566"
+       y="396.33429"
+       id="text2991-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993-7"
+         x="432.58566"
+         y="396.33429">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="462.60992"
+       y="396.32257"
+       id="text2991-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993-8"
+         x="462.60992"
+         y="396.32257">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="491.16937"
+       y="396.33429"
+       id="text2991-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993-2"
+         x="491.16937"
+         y="396.33429">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="522.7522"
+       y="396.33429"
+       id="text2991-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993-6"
+         x="522.7522"
+         y="396.33429">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="553.22766"
+       y="396.33429"
+       id="text2991-4-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2993-6-2"
+         x="553.22766"
+         y="396.33429">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="394.7171"
+       y="425.05746"
+       id="text3348"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3350"
+         x="394.7171"
+         y="425.05746" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="390.00531"
+       y="442.65393"
+       id="text3352"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354"
+         x="390.00531"
+         y="442.65393"
+         style="font-size:20px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="419.82465"
+       y="442.6637"
+       id="text3352-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3"
+         x="419.82465"
+         y="442.6637"
+         style="font-size:20px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="450.26898"
+       y="442.79553"
+       id="text3352-1-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5"
+         x="450.26898"
+         y="442.79553"
+         style="font-size:20px">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="480.03949"
+       y="442.65393"
+       id="text3352-1-7-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9"
+         x="480.03949"
+         y="442.65393"
+         style="font-size:20px">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="510.07367"
+       y="442.6637"
+       id="text3352-1-7-7-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-7"
+         x="510.07367"
+         y="442.6637"
+         style="font-size:20px">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="540.10297"
+       y="442.52209"
+       id="text3352-1-7-7-2-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-7-4"
+         x="540.10297"
+         y="442.52209"
+         style="font-size:20px">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="569.93207"
+       y="442.65393"
+       id="text3352-1-7-7-2-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-7-4-5"
+         x="569.93207"
+         y="442.65393"
+         style="font-size:20px;fill:#ff0000">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="386.52875"
+       y="469.33899"
+       id="text3352-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-9"
+         x="386.52875"
+         y="469.33899"
+         style="font-size:20px">-6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="416.77289"
+       y="469.34875"
+       id="text3352-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-9"
+         x="416.77289"
+         y="469.34875"
+         style="font-size:20px">-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="446.46039"
+       y="469.48059"
+       id="text3352-1-7-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-96"
+         x="446.46039"
+         y="469.48059"
+         style="font-size:20px">-4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="476.69965"
+       y="469.33899"
+       id="text3352-1-7-7-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-1"
+         x="476.69965"
+         y="469.33899"
+         style="font-size:20px">-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="506.89984"
+       y="469.34875"
+       id="text3352-1-7-7-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-7-3"
+         x="506.89984"
+         y="469.34875"
+         style="font-size:20px">-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ori1Uni;-inkscape-font-specification:ori1Uni Medium"
+       x="536.82172"
+       y="469.20715"
+       id="text3352-1-7-7-2-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3354-3-5-9-7-4-54"
+         x="536.82172"
+         y="469.20715"
+         style="font-size:20px">-1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
+       d="m 394.18036,423.03715 184.1003,0 0,-0.50508 0,0"
+       id="path3539"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 394.18036,476.55472 184.1003,0 0,-0.50508 0,0"
+       id="path3539-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/morenor/Trabajo/SCIEN_Academy/MasterD/Contenidos_Curso/BigData/09PythonParaAnalisisDatos/fig_lista_indices.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

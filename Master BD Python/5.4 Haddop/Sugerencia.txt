@@ -1,0 +1,10 @@
+Recomendación 
+Te invitamos a leer más a fondo sobre Hadoop en la siguiente bibliografía:
+
+Página principal del proyecto: http://hadoop.apache.org/
+Documentación oficial de Hadoop: https://hadoop.apache.org/docs/current/
+Documentación oficial de HDFS: https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
+Documentación oficial de MapReduce: https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+Documentación oficial de YARN: https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html
+Documentación de la librería mrjob: https://pythonhosted.org/mrjob/
+"Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale". Tom White. O'Reilly Media; 4 edition, 2015
